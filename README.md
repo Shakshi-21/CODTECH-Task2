@@ -12,9 +12,9 @@
 The objective is to develop a Java-based healthcare management system that automates patient registration, appointment scheduling, EHR, billing, inventory, and staff management for improved operational efficiency.
 
 ### Key Activities
-**1. Patient Registration: The system captures patient details like personal information, medical history, and contact information, and stores them.\
-**2. Appointment Scheduling: Patients can schedule, modify, or cancel appointments based on doctors' availability through an intuitive interface.\
-**3. Billing and Invoicing: The system generates invoices for medical services provided, handles payment processing, and maintains billing records for review.\
+* Patient Registration: The system captures patient details like personal information, medical history, and contact information, and stores them.\
+* Appointment Scheduling: Patients can schedule, modify, or cancel appointments based on doctors' availability through an intuitive interface.\
+*  Billing and Invoicing: The system generates invoices for medical services provided, handles payment processing, and maintains billing records for review.\
 
 ### Technologies Used
 **1. Java (JDK 22.0.2):** The primary programming language.\
