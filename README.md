@@ -23,10 +23,10 @@ The objective is to develop a Java-based healthcare management system that autom
 **4. Command Prompt(cmd):** Used to compile and run the Java program, providing an interface to execute Java commands and interact with the application.
 
 ### Key Insights
-**1. Comprehensive Patient Management:** Uses dedicated classes to handle detailed patient registration, medical history, and personal information efficiently.
-**2. Organized Appointment Scheduling:** Implements appointment scheduling through a structured class for managing bookings and doctor-patient interactions.
-**3. Efficient Billing and Invoicing:** Manages billing processes with a dedicated class for generating and tracking patient invoices and payments.
+**1. Comprehensive Patient Management:** Uses dedicated classes to handle detailed patient registration, medical history, and personal information efficiently.\
+**2. Organized Appointment Scheduling:** Implements appointment scheduling through a structured class for managing bookings and doctor-patient interactions.\
+**3. Efficient Billing and Invoicing:** Manages billing processes with a dedicated class for generating and tracking patient invoices and payments.\
 **4. Robust Inventory and Staff Management:** Utilizes classes to manage medical inventory and staff information, ensuring accurate tracking and updates.
 
 ### Conclusion
-The hospital management system leverages Java’s object-oriented design and data management capabilities to create a comprehensive solution for healthcare facilities. It includes robust modules for patient registration, appointment scheduling, medical record management, billing, inventory, and staff administration. The system’s structure supports efficient operations and is well-positioned for future enhancements to address evolving healthcare needs.
+The hospital management system leverages Java’s object-oriented design and data management capabilities to create a comprehensive solution for healthcare facilities. It includes robust modules for patient registration, appointment scheduling, medical record management, billing, inventory, and staff administration. 
