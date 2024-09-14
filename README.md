@@ -5,6 +5,9 @@
 **Duration:** AUGUST 17th,2024 to SEPTEMBER 17th,2024
 
 ## Overview of the Project
+![Task2_a](https://github.com/user-attachments/assets/e004eff9-11df-4657-879d-330ee042fb58)
+![Task2_b](https://github.com/user-attachments/assets/1af649bc-d364-4311-9bf9-60c258095d4e)
+![Task2_c](https://github.com/user-attachments/assets/51d4d8d8-28c9-4fff-b291-a37517f56d6e)
 
 ### Project: Hospital Management System using Java Programming
 
